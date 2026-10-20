@@ -18,3 +18,24 @@ VUG/SEN/24/12635
 VUG/SEN/24/11220
 9. Winner Edoror
 VUG/SEN/24/12050
+
+
+
+LeetCode Problem #141: Linked List Cycle
+
+Problem Explanation
+
+The Linked List Cycle problem requires us to determine whether a singly linked list contains a cycle.
+
+A cycle occurs when a node points back to an earlier node instead of pointing to "null".
+
+To solve this problem, we use Floyd's Cycle Detection Algorithm, which uses two pointers:
+
+- Slow pointer: Moves one node at a time.
+- Fast pointer: Moves two nodes at a time.
+
+If both pointers meet, a cycle exists, and the program returns "true".
+
+If the fast pointer reaches "null", no cycle exists, and the program returns "false".
+
+
