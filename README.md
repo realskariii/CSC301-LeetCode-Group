@@ -16,8 +16,10 @@ VUG/SEN/22/8198
 VUG/SEN/24/12635
 8. AMU Douglas 
 VUG/SEN/24/11220
-9. Winner Edoror
+9.  Edoror Winner Ehinomen
 VUG/SEN/24/12050
+10. Ayilla Emmanuel Msughter
+VUG/SEN/24/11437
 
 
 
